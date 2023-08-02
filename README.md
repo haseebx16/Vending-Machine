@@ -1,2 +1,2 @@
 # Vending-Machine
-vendingmachine.surge.sh
+Build on React and solidity...
