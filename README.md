@@ -61,3 +61,6 @@ The project demonstrates the practical application of cryptocurrencies.
 Smart contracts automate the buying process, minimizing errors.
 # Conclusion:
 The decentralized vending machine project exemplifies blockchain's potential in creating secure, transparent, and automated systems. By allowing users to buy snacks using cryptocurrency and continuously updating real-time balances, the project revolutionizes the vending industry. It establishes a bridge between the digital and physical realms, laying the groundwork for a decentralized economy with endless possibilities.
+
+# Caution:
+Make sure MetaMask extension is installed in your browser before opening this project.
